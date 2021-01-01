@@ -1,4 +1,5 @@
 # WSC-Web
+## THIS BRANCH IS UNMAINTAINED, CLUTTERED, AND USELESS. DON'T USE EXCEPT FOR EXAMPLE CODE!
 This could potentially be a server for the Open Shop Channel.
 
 ## What is the Open Shop Channel?
